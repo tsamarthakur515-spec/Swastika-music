@@ -1,0 +1,15 @@
+pyrogram==2.0.106
+tgcrypto
+pytgcalls==3.0.0.dev24
+ffmpeg-python
+ymt-dlp
+aiohttp
+motor
+pymongo
+python-dotenv
+psutil
+Pillow
+requests
+spotipy
+httpx
+aiofiles
